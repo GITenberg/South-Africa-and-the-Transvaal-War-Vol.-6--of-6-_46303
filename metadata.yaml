@@ -1,0 +1,28 @@
+_repo: South-Africa-and-the-Transvaal-War-Vol.-6--of-6-_46303
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46303-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Creswicke, Louis
+    gutenberg_agent_id: '25997'
+    url: http://www.gutenberg.org/2009/agents/25997
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'DT'
+- !lcsh 'Transvaal (South Africa) -- History'
+title: "South Africa and the Transvaal War, Vol. 6 (of 8)\r\nFrom the Occupation of\
+  \ Pretoria to Mr. Kruger's Departure from South Africa, with a Summarised Account\
+  \ of the Guerilla War to March 1901"
+url: http://www.gutenberg.org/ebooks/46303
